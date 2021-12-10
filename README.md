@@ -1,5 +1,5 @@
 # README
-
+This project can be found [Here](https://github.com/louislusso/EXM14000-Coursework) 
 ## Overview 
 Thi project is a simple personalised covid dashboard. Dashboards are automated systems that help visualise input data streams. This dashboard application will coordinate information about the COVID infection rates from the Public Health England API and news stories about Covid from a given news API.
 The dashboard will need to run continuously and respond to events. These events can either be scheduled by the developer or triggered by user inputs.
@@ -61,7 +61,9 @@ UTLA - Upper Tier Local Authority
 
 More info on the Covid_19 API can be found in the [Developers Guide](https://coronavirus.data.gov.uk/details/developers-guide)
 
-
+## Special Thanks To:
+Dr Matt Collison - University Of Exeter 2021 - m.collison@exeter.ac.uk
+Dr Hugo Barbosa - University Of Exeter 2021 - h.barbosa@exeter.ac.uk
 
 
 ## Licence:
