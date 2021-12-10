@@ -50,30 +50,30 @@ For the filepaths do not include a filename
 12. log_file_location
 
 ### Location type help
-LTLA - Lower Tier Local Authority
-MSOA - Middle-ayer Super Output Area
-Nation - Different nations of the UK
-NHS Region - Healthcare regions of England
-NHS Trust - Healthcare trusts of England
-Overview - For the UK
-Region - avaliable for england
-UTLA - Upper Tier Local Authority 
+        LTLA - Lower Tier Local Authority
+        MSOA - Middle-ayer Super Output Area
+        Nation - Different nations of the UK
+        NHS Region - Healthcare regions of England
+        NHS Trust - Healthcare trusts of England
+        Overview - For the UK
+        Region - avaliable for england
+        UTLA - Upper Tier Local Authority 
 
 More info on the Covid_19 API can be found in the [Developers Guide](https://coronavirus.data.gov.uk/details/developers-guide)
 
 ## Special Thanks To:
-Dr Matt Collison - University Of Exeter 2021 - m.collison@exeter.ac.uk
-Dr Hugo Barbosa - University Of Exeter 2021 - h.barbosa@exeter.ac.uk
+        Dr Matt Collison - University Of Exeter 2021 - m.collison@exeter.ac.uk
+        Dr Hugo Barbosa - University Of Exeter 2021 - h.barbosa@exeter.ac.uk
 
 
 ## Licence:
  ### Copyright <2021> <Louis Andrew Lusso>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
