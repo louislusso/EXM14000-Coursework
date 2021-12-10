@@ -1,0 +1,28 @@
+{
+    
+    
+    "covid_data_handler":{
+        "csv_filename":"nation_2021-10-28.csv", 
+        "csvFilenameFilepath":"C:\\Users\\louis\\OneDrive - University of Exeter\\ECM1400 Programming\\CourseWork//Data",
+        "csvTopFilenameFilepath":"C:\\Users\\louis\\OneDrive - University of Exeter\\ECM1400 Programming\\CourseWork//topData",
+        "csvBottomFilenameFilepath":"C:\\Users\\louis\\OneDrive - University of Exeter\\ECM1400 Programming\\CourseWork/bottomData",
+        "Toplocation":"Exeter",
+        "Toplocation_type":"ltla",
+        "Bottomlocation":"England",
+        "Bottomlocation_type":"nation",
+        "dataFilepath":"write-math"
+    },
+    "covid_news_handling":{
+        "covid_terms":"Covid COVID-19 coronavirus",
+        "api_key":""
+
+    },
+    "covid_html_handler":{
+        "static_foler_name":"C:\\Users\\louis\\OneDrive - University of Exeter\\ECM1400 Programming\\CourseWork\\static"
+
+    },
+    "misc":{
+        "log_file_location":"C:\\Users\\louis\\OneDrive - University of Exeter\\ECM1400 Programming\\CourseWork//"
+
+    }
+}
